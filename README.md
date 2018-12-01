@@ -21,5 +21,5 @@ It's simple!
 
 `genuuid` prints a random V4 UUID to stdout.
 
-`genuuid` creates a UUID and copies it to the
+`genuuid -c` creates a UUID and copies it to the
 clipboard as well.
