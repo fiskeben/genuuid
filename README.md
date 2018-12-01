@@ -1,9 +1,9 @@
-# genuuid
+# 💫 genuuid
 
 Generate and print a UUID and copy it to the clipboard.
 Great for quickly getting a UUID ready to use.
 
-## Installation
+## 💾 Installation
 
 Install with Homebrew:
 
@@ -15,7 +15,7 @@ $> brew install genuuid
 If you're not a Homebrew user grab
 [the latest release](releases/tag/1.0.1).
 
-## Usage
+## 📖 Usage
 
 It's simple!
 
